@@ -1,0 +1,15 @@
+G:\GitTut\Muchhad9\CustomerMicroService\bin\Debug\net6.0\CustomerMicroService.exe
+G:\GitTut\Muchhad9\CustomerMicroService\bin\Debug\net6.0\CustomerMicroService.deps.json
+G:\GitTut\Muchhad9\CustomerMicroService\bin\Debug\net6.0\CustomerMicroService.runtimeconfig.json
+G:\GitTut\Muchhad9\CustomerMicroService\bin\Debug\net6.0\CustomerMicroService.dll
+G:\GitTut\Muchhad9\CustomerMicroService\bin\Debug\net6.0\CustomerMicroService.pdb
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\CustomerMicroService.csproj.AssemblyReference.cache
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\CustomerMicroService.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\CustomerMicroService.AssemblyInfoInputs.cache
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\CustomerMicroService.AssemblyInfo.cs
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\CustomerMicroService.csproj.CoreCompileInputs.cache
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\CustomerMicroService.dll
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\refint\CustomerMicroService.dll
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\CustomerMicroService.pdb
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\CustomerMicroService.genruntimeconfig.cache
+G:\GitTut\Muchhad9\CustomerMicroService\obj\Debug\net6.0\ref\CustomerMicroService.dll
