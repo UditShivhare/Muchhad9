@@ -1,0 +1,15 @@
+G:\GitTut\Muchhad9\LoginAPI\bin\Debug\net6.0\LoginAPI.exe
+G:\GitTut\Muchhad9\LoginAPI\bin\Debug\net6.0\LoginAPI.deps.json
+G:\GitTut\Muchhad9\LoginAPI\bin\Debug\net6.0\LoginAPI.runtimeconfig.json
+G:\GitTut\Muchhad9\LoginAPI\bin\Debug\net6.0\LoginAPI.dll
+G:\GitTut\Muchhad9\LoginAPI\bin\Debug\net6.0\LoginAPI.pdb
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.AssemblyReference.cache
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\LoginAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfoInputs.cache
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\LoginAPI.AssemblyInfo.cs
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\LoginAPI.csproj.CoreCompileInputs.cache
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\LoginAPI.dll
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\refint\LoginAPI.dll
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\LoginAPI.pdb
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\LoginAPI.genruntimeconfig.cache
+G:\GitTut\Muchhad9\LoginAPI\obj\Debug\net6.0\ref\LoginAPI.dll

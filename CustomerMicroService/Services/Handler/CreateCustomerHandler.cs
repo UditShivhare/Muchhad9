@@ -15,6 +15,7 @@ namespace CustomerMicroService.Services.Handler
             Console.WriteLine(command.Name + " Inserted into DB Using EFCore");
              
             //Event Queue
+            //Kafka ,RabbitMQ
         }
     }
 }
