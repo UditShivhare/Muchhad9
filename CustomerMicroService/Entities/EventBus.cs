@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CustomerMicroService.Contracts;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,9 @@ using System.Threading.Tasks;
 
 namespace CustomerMicroService.Entities
 {
-    internal class EventBus
+    public  class EventBus
     {
+        IEventStore eventSrc = new EventStore();
+
     }
 }

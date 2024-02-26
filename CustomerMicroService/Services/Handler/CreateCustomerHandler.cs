@@ -12,6 +12,8 @@ namespace CustomerMicroService.Services.Handler
     {
         public void Handle(CreateCustomer command)
         {
+            //Dal.Add(Command);
+            //Dal.Save();
             Console.WriteLine(command.Name + " Inserted into DB Using EFCore");
              
             //Event Queue
