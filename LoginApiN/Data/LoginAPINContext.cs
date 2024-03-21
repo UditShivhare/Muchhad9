@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
+﻿using LoginApiN.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.EntityFrameworkCore;
 
 namespace LoginApiN.Data
 {
-    public class LoginAPINContext: DbContext
+    public class LoginAPINContext: IdentityDbContext<ApplicationUser>
     {
         public LoginAPINContext(DbContextOptions<LoginAPINContext> options) :base(options)
         {

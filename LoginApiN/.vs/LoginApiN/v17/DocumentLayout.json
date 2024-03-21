@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:repository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\migrations\\20240320160531_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:migrations\\20240320160531_addedidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\migrations\\20240302125730_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:migrations\\20240302125730_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\data\\loginapincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:data\\loginapincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\loginapin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:loginapin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\data\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:data\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\migrations\\loginapincontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:migrations\\loginapincontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|d:\\projects\\uditshivhare\\muchhad9\\loginapin\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269CC3E2-1122-4CE8-BB46-863ABA432450}|LoginApiN.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Models\\SignInModel.cs",
+              "RelativeDocumentMoniker": "Models\\SignInModel.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Models\\SignInModel.cs",
+              "RelativeToolTip": "Models\\SignInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:49:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T07:23:03.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Repository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AccountRepository.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Repository\\AccountRepository.cs",
+              "RelativeToolTip": "Repository\\AccountRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:18:38.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Repository\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IAccountRepository.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Repository\\IAccountRepository.cs",
+              "RelativeToolTip": "Repository\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:18:53.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:19:39.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginAPINContext.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Data\\LoginAPINContext.cs",
+              "RelativeDocumentMoniker": "Data\\LoginAPINContext.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Data\\LoginAPINContext.cs",
+              "RelativeToolTip": "Data\\LoginAPINContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240320160531_AddedIdentity.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Migrations\\20240320160531_AddedIdentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240320160531_AddedIdentity.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Migrations\\20240320160531_AddedIdentity.cs",
+              "RelativeToolTip": "Migrations\\20240320160531_AddedIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:05:31.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Models\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "Models\\SignUpModel.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Models\\SignUpModel.cs",
+              "RelativeToolTip": "Models\\SignUpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:13:00.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:01:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240302125730_init.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Migrations\\20240302125730_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240302125730_init.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Migrations\\20240302125730_init.cs",
+              "RelativeToolTip": "Migrations\\20240302125730_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginApiN.csproj",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\LoginApiN.csproj",
+              "RelativeDocumentMoniker": "LoginApiN.csproj",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\LoginApiN.csproj",
+              "RelativeToolTip": "LoginApiN.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-17T07:23:03.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookRepository.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "Repository\\IBookRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Data\\Books.cs",
+              "RelativeDocumentMoniker": "Data\\Books.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Data\\Books.cs",
+              "RelativeToolTip": "Data\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginAPINContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Migrations\\LoginAPINContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\LoginAPINContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Migrations\\LoginAPINContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\LoginAPINContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAEBVwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\UditShivhare\\Muchhad9\\LoginApiN\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:23:03.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
